@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
+# 存档目录（玩家本地进度，**不**入库）
+具体群像技能/*/saves/
+
+# OS
+.DS_Store
+Thumbs.db
