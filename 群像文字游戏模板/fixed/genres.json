@@ -1,0 +1,44 @@
+{
+  "饭局": {
+    "venue_vibe": "密闭、微醺、熟人局，话里有话",
+    "tone": "市井、暗流、一杯酒见人心",
+    "default_trigger_hint": "有人突然举杯宣布一件改变全场的事",
+    "platforms": ["公众号", "知乎", "小红书", "B站"],
+    "player_role_default": "被拉来凑局的局外人/熟人"
+  },
+  "家族春节": {
+    "venue_vibe": "一屋子亲戚、催婚、比孩子、旧账",
+    "tone": "热闹下的刀光，笑里藏问",
+    "default_trigger_hint": "长辈一句'有件事我一直想说'掀翻饭桌",
+    "platforms": ["抖音", "小红书", "公众号"],
+    "player_role_default": "回家的那个'最不听话'的晚辈"
+  },
+  "公司董事会": {
+    "venue_vibe": "长桌、PPT、股权、暗战",
+    "tone": "西装下的丛林，一句话定生死",
+    "default_trigger_hint": "CEO 突然出示一份罢免案",
+    "platforms": ["知乎", "公众号"],
+    "player_role_default": "刚被空降的中层/小股东"
+  },
+  "婚礼现场": {
+    "venue_vibe": "鲜花、誓言、前任在场、旧情未了",
+    "tone": "浪漫壳子里的炸药",
+    "default_trigger_hint": "司仪问'有谁反对吗'时有人站起",
+    "platforms": ["抖音", "小红书", "B站"],
+    "player_role_default": "伴郎/伴娘，知道一个不该知道的秘密"
+  },
+  "同学会": {
+    "venue_vibe": "十年后再见，攀比、怯场、旧账",
+    "tone": "中年人的修罗场",
+    "default_trigger_hint": "班长突然点名'说说你这十年'",
+    "platforms": ["公众号", "知乎", "小红书"],
+    "player_role_default": "那个当年最不起眼、如今最有故事的人"
+  },
+  "密室逃脱": {
+    "venue_vibe": "封闭空间、倒计时、信任危机",
+    "tone": "高压下的本性暴露",
+    "default_trigger_hint": "有人发现'门其实从里面能开，是某人锁上的'",
+    "platforms": ["抖音", "B站"],
+    "player_role_default": "被朋友硬拉来的'凑数'队友"
+  }
+}
